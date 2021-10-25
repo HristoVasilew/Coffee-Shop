@@ -1,1 +1,1 @@
-# Spring-mini-projects
+# Spring-mini-project
